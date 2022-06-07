@@ -1,0 +1,9 @@
+torch>=1.8.1+cu111
+numpy>=1.21.4
+torchvision>=0.9.1+cu111
+#pillow>=8.2.0
+#scipy>=1.8.0
+scikit-image>=0.18.2
+dominate>=2.6.0
+requests>=2.26.0
+pydicom==2.1.2
